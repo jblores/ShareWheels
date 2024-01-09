@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885109250502",
+    "project_id": "sharewheels-dd40a",
+    "storage_bucket": "sharewheels-dd40a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885109250502:android:7b57b40e4192a825a9fac7",
+        "android_client_info": {
+          "package_name": "android.ejemplo.sharewheels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfIIcv_OeYNOvsp3lTrlCQxlH5y4nPLeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
