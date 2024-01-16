@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ShareWheels</string>
+    <string name="logo">LogoProvisional</string>
+    <string name="welcome">Bienvenido/a a ShareWeels</string>
+    <string name="welcome2">Busca tu ruta basada en tus necesidades</string>
+    <string name="buttonLogin">Inicia Sesión</string>
+    <string name="buttonRegister">Regístrate</string>
 </resources>
