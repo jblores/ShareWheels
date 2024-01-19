@@ -1,4 +1,5 @@
 <resources>
+    <string name="google_map_api_key">AIzaSyDQlaZ7XDJT8VcTh04UyuMTB2gF2-8IFM4</string>
     <string name="app_name">ShareWheels</string>
     <string name="logo">LogoProvisional</string>
     <string name="welcome">Bienvenido/a a ShareWeels</string>
